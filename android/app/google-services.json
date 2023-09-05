@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597183368219",
+    "project_id": "flash-chat-855e6",
+    "storage_bucket": "flash-chat-855e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597183368219:android:866f46fe67e00d571b3cbe",
+        "android_client_info": {
+          "package_name": "com.Onkar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597183368219-5igc19daauana14j6ua91io136qpebig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQdb7yHS-hSZw3-r0sNjavbCrKja77dKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597183368219-5igc19daauana14j6ua91io136qpebig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
